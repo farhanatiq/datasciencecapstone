@@ -10,7 +10,8 @@ The final project was concluded with one Shiny application and a Pitch using R-P
 
 #Details of the repository:
 
-##This repository contains the following files/folders:
+This repository contains the following files/folders:
+
 README.md: This readme.
 capstone.R: Creates the data objects from cleaned source files.
 ui.R, server.R, helpers.R: Shiny application
